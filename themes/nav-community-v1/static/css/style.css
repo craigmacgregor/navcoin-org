@@ -1964,7 +1964,7 @@ a {
 .read-more {
     float: left;
 }
-.blog-excerpt p {
+.blog-excerpt {
     margin-top: 20px;
 	  margin-bottom:20px;
     height: 72px;
@@ -1972,7 +1972,7 @@ a {
     position: relative;
 }
 
-.blog-excerpt p:after {
+.blog-excerpt:after {
   content: "";
   text-align: right;
   position: absolute;
